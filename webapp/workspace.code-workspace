@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "simple_view",
+			"path": "../../project_odata/nwfreestyle/simple_view"
+		},
+		{
+			"name": "nwfreestyle",
+			"path": "../../project_odata/nwfreestyle"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
